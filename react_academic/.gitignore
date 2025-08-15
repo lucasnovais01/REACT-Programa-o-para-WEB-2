@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Importante para colocar no GITHUB
+# node_modules/
+.env
+# dist/
+build/

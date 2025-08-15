@@ -8,15 +8,22 @@
 		{
 			"path": "react_academic"
 		}
+
+    pww2.code-workspace
 */
 {
 	"folders": [
+		{
+			"path": "."
+		},
+/*
 		{
 			"path": "ppw2/nest_academic"
 		},
 		{
 			"path": "ppw2/react_academic"
 		}
+*/
 	],
 	"settings": {
     "window.zoomLevel": 0,
