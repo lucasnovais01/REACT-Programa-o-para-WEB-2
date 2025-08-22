@@ -3,3 +3,7 @@
 git config --global user.email "novais.oliveira@aluno.ifsp.edu.br"
 
 git config --global user.name "lucasnovais01"
+
+Para criar o servidor, precisa rodar no console, da pasta do nodejs o seguinte:
+
+npm run start:dev
