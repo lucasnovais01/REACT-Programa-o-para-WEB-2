@@ -17,5 +17,10 @@ para testar no postman
     "codCidade": "COD120"
 }
 
+OBSERVAÇÕES:
 
-deletar esta linha*
+DTO = Data Transfer Object, serve para esconder coisas no backend
+
+Entidade = é uma representação orientada a objeto da tabela
+
+Converter = Serve para converter para entidade, para ela poder trabalhar
